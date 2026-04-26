@@ -38,7 +38,7 @@ export default function Header() {
             </svg>
           </div>
           <span className="font-bold text-foreground tracking-tight text-sm sm:text-base">
-            Shopee<span className="text-gradient">Link</span>
+            Duy<span className="text-gradient">Khanh</span>
           </span>
         </Link>
 
