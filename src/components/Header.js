@@ -38,7 +38,7 @@ export default function Header() {
             </svg>
           </div>
           <span className="font-bold text-foreground tracking-tight text-sm sm:text-base">
-            Duy<span className="text-gradient">Khanh</span>
+            Shopee<span className="text-gradient">Link</span>
           </span>
         </Link>
 
@@ -110,12 +110,7 @@ export default function Header() {
               )}
             </div>
           ) : (
-            <Link
-              href="/auth/login"
-              className="text-sm font-medium text-primary hover:text-primary-dark bg-primary/5 hover:bg-primary/10 px-4 py-2 rounded-xl transition-colors"
-            >
-              Đăng nhập
-            </Link>
+            <div></div>
           )}
         </div>
       </div>

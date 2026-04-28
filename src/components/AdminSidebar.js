@@ -19,7 +19,6 @@ export default function AdminSidebar({ onClose }) {
     return pathname.startsWith(item.href);
   };
 
-  // DuyKhanh
   return (
     <nav className="sidebar-nav">
       <div className="sidebar-header">
